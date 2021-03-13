@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="bottom_everything">Home</string>
+    <string name="bottom_top_heading">Top Heading</string>
+    <string name="bottom_recent">Recent</string>
+    <string name="search_hint">Search…</string>
+</resources>
